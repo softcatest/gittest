@@ -14,7 +14,7 @@ Las siguientes instrucciones se deben realizar por consola o usando un visor de 
 10. Elimina el branch feature/GIT_TEST_<FECHA>_<NOMBRE_APELLIDO>_B1
 11. Coloca las imagenes en el folder img.
 12. Realiza los pasos 5 y 6
-13. Crea un merge request
+13. Crea un merge request al branch develop
 14. Documenta el merge request
 15. Enviá url del merge request por correo.
 
