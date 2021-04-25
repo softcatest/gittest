@@ -11,4 +11,3 @@ En esta prueba encrontrarás una serie de pasos que debes cumplir y enviar como 
 **Notas**
 
 - Tomar captura de pantalla de cada una de los pasos realizados en la prueba.
-- En caso de presentar inconvenientes al clonar el repositorio, realiza un fork de este repositorio y enviá la url de repositorio donde realizaste la prueba. 
