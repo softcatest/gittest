@@ -11,13 +11,13 @@ Nota:
 1. Realizar fork de éste repositorio a su cuenta de github
 2. Clonar el repositorio que se creó en su cuenta
 3. Cambiarse a la rama "develop"
-4. Crear una rama a partir de la rama "develop" con la siguiente estructura "feature/GIT_TEST_<FECHA>_<NOMBRE_APELLIDO>_B1".
+4. Crear una rama a partir de la rama "develop" con la siguiente estructura "feature/GIT_TEST_<FECHA>_<NOMBRE_APELLIDO>_B1" y cambiarse a la rama creada.
 5. Crea una carpeta llamada img.
 6. Agrega las imagenes a la carpeta img de los pasos hasta este punto.
 7. Realiza commit.
 8. Realiza push.
 9. cambiarse a la rama "develop" nuevamente.
-10. Crea una rama a partir de la rama "develop" con la siguiente estructura "feature/GIT_TEST_<FECHA>_<NOMBRE_APELLIDO>_B2".
+10. Crea una rama a partir de la rama "develop" con la siguiente estructura "feature/GIT_TEST_<FECHA>_<NOMBRE_APELLIDO>_B2" y cambiarse a la rama creada.
 11. Realiza merge de la rama feature/GIT_TEST_<FECHA>_<NOMBRE_APELLIDO>_B1 al feature/GIT_TEST_<FECHA>_<NOMBRE_APELLIDO>_B2
 12. Elimina la rama feature/GIT_TEST_<FECHA>_<NOMBRE_APELLIDO>_B1
 13. Coloca las imagenes hasta el paso actual en la carpeta img.
